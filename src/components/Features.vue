@@ -6,7 +6,7 @@
         <div class="feature-item">
           <i class="icon-calculator"></i>
           <h3>Normativa Vigente e Histórica</h3>
-          <p>Leyes, códigos, reglamentos, etc. Taxia puede navegar en el amplio universo vinculante del derecho mexicano.</p>
+          <p>Leyes, códigos, reglamentos, etc. Taxia puede navegar en el amplio universo del derecho mexicano.</p>
         </div>
         <div class="feature-item">
           <i class="icon-compliance"></i>
