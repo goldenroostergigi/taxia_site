@@ -148,6 +148,7 @@ nav a:hover {
 
   .nav-container {
     position: relative;
+    padding: 1.5em .4em;
   }
 }
 </style>
