@@ -1,8 +1,8 @@
 <template>
   <section class="waitlist" id="waitlist">
     <h2>Únete a Probar Taxia</h2>
-    <p>Completa el Google Form o envíanos un correo a info@taxia.com</p>
-    <a href="https://forms.gle/tu_link_al_google_form" target="_blank" class="button">Abre la Forma</a>
+    <p>Completa el Google Form o envíanos un correo a info@taxiamx.com</p>
+    <a href="https://forms.gle/DxJUxBotN1tP1x9P8" target="_blank" class="button">Abre el Formulario</a>
   </section>
 </template>
 
